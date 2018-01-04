@@ -1,0 +1,5 @@
+﻿  FlowShop.cpp
+c:\users\dziku\documents\visual studio 2015\projects\new_fsp_vmatrix_all\new_fsp_vmatrix_all\flowshop.cpp(183): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dziku\documents\visual studio 2015\projects\new_fsp_vmatrix_all\new_fsp_vmatrix_all\flowshop.cpp(226): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  New_FSP_vMatrix_all.vcxproj -> C:\Users\dziku\Documents\Visual Studio 2015\Projects\New_FSP_vMatrix_all\Debug\New_FSP_vMatrix_all.exe
+  New_FSP_vMatrix_all.vcxproj -> C:\Users\dziku\Documents\Visual Studio 2015\Projects\New_FSP_vMatrix_all\Debug\New_FSP_vMatrix_all.pdb (Full PDB)
